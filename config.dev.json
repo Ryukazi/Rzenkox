@@ -12,7 +12,7 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "en",
-	"nickNameBot": "EhYy hOrAa 😗",
+	"nickNameBot": " ",
 	"prefix": ",",
 	"adminOnly": {
 		"enable": false,
@@ -136,10 +136,10 @@
 		"updatePresence": true,
 		"listenTyping": true,
 		"logLevel": "error",
-		"selfListen": false,
+		"selfListen": true,
 		"selfListenEvent": true,
 		"autoMarkDelivery": false,
-		"autoReconnect": false,
+		"autoReconnect": true,
 		"notes": "Document here: https://github.com/ntkhang03/fb-chat-api/blob/master/DOCS.md#apisetoptionsoptions "
 	}
 }
